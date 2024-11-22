@@ -1,2 +1,1 @@
 # quanlykhachsan
-# Server API
